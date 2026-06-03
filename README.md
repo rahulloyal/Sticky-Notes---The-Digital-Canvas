@@ -2,7 +2,7 @@
 
 <img src="assets/app-icon.png" alt="Sticky Notes App Icon" width="140" style="border-radius: 28px;" />
 
-# Sticky Notes - The Digital Canvas
+# Sticky Notes
 
 ### A Beautiful, Freeform Digital Canvas for Your Thoughts
 
@@ -19,7 +19,7 @@
 
 ### 📥 Download
 
-<a href="https://github.com/RahulLoyalDalmas/Sticky-Notes-Showcase/releases/latest/download/Sticky-Notes.apk">
+<a href="https://github.com/rahulloyal/Sticky-Notes---The-Digital-Canvas/releases/latest/download/Sticky-Notes.apk">
   <img src="https://img.shields.io/badge/⬇_Download_APK-v1.0.0-brightgreen?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="50" />
 </a>
 
