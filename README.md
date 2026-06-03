@@ -2,7 +2,7 @@
 
 <img src="assets/app-icon.png" alt="Sticky Notes App Icon" width="140" style="border-radius: 28px;" />
 
-# Sticky Notes
+# Sticky Notes - The Digital Canvas
 
 ### A Beautiful, Freeform Digital Canvas for Your Thoughts
 
